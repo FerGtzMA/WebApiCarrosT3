@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Dy4kT8xL2JLCk7y4sdgFD8jK4XHLM8wXphbBJ1iGxPE=",
+  "Source": "WebApiCarros1",
+  "BasePath": "_content/WebApiCarros1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiCarros1\\wwwroot",
+      "Source": "WebApiCarros1",
+      "ContentRoot": "C:\\Users\\yahir\\Desktop\\LCC\\6to_SEMESTRE\\Backend\\VS_AspNetCoreWebApi\\WebApiCarros1\\WebApiCarros1\\wwwroot\\",
+      "BasePath": "_content/WebApiCarros1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
